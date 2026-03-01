@@ -15,7 +15,7 @@ export default function App() {
           <div className="text-gray-700 text-xs md:text-sm mt-1">
             <span className="font-medium">A.R Nivethenan Croos</span> —
             2020/E/001 &nbsp; | &nbsp;
-            <span className="font-medium">M.A Zimry</span> — 2021/E/106
+            <span className="font-medium">N.A Zimry</span> — 2021/E/106
           </div>
         </div>
       </div>
